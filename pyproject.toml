@@ -9,7 +9,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.8"
-prompt = "^0.4.1"
+argparse = "^1.4.0"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^3.9.1"
